@@ -1,0 +1,48 @@
+[07-Mar-2018 05:17:46 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/alpha982/public_html/inicialtrabalhista.com/adv/painel_adv/config.php:7
+Stack trace:
+#0 /home/alpha982/public_html/inicialtrabalhista.com/adv/painel_adv/menu_nav.php(5): include()
+#1 /home/alpha982/public_html/inicialtrabalhista.com/adv/painel_adv/index.php(26): include('/home/alpha982/...')
+#2 {main}
+  thrown in /home/alpha982/public_html/inicialtrabalhista.com/adv/painel_adv/config.php on line 7
+[07-Mar-2018 05:19:34 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/alpha982/public_html/inicialtrabalhista.com/adv/painel_adv/config.php:7
+Stack trace:
+#0 /home/alpha982/public_html/inicialtrabalhista.com/adv/painel_adv/menu_nav.php(5): include()
+#1 /home/alpha982/public_html/inicialtrabalhista.com/adv/painel_adv/index.php(26): include('/home/alpha982/...')
+#2 {main}
+  thrown in /home/alpha982/public_html/inicialtrabalhista.com/adv/painel_adv/config.php on line 7
+[07-Mar-2018 05:20:44 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/alpha982/public_html/inicialtrabalhista.com/adv/painel_adv/config.php:7
+Stack trace:
+#0 /home/alpha982/public_html/inicialtrabalhista.com/adv/painel_adv/menu_nav.php(5): include()
+#1 /home/alpha982/public_html/inicialtrabalhista.com/adv/painel_adv/index.php(26): include('/home/alpha982/...')
+#2 {main}
+  thrown in /home/alpha982/public_html/inicialtrabalhista.com/adv/painel_adv/config.php on line 7
+[07-Mar-2018 05:21:14 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/alpha982/public_html/inicialtrabalhista.com/adv/painel_adv/config.php:7
+Stack trace:
+#0 /home/alpha982/public_html/inicialtrabalhista.com/adv/painel_adv/menu_nav.php(5): include()
+#1 /home/alpha982/public_html/inicialtrabalhista.com/adv/painel_adv/index.php(26): include('/home/alpha982/...')
+#2 {main}
+  thrown in /home/alpha982/public_html/inicialtrabalhista.com/adv/painel_adv/config.php on line 7
+[07-Mar-2018 05:23:07 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/alpha982/public_html/inicialtrabalhista.com/adv/painel_adv/config.php:7
+Stack trace:
+#0 /home/alpha982/public_html/inicialtrabalhista.com/adv/painel_adv/menu_nav.php(5): include()
+#1 /home/alpha982/public_html/inicialtrabalhista.com/adv/painel_adv/index.php(26): include('/home/alpha982/...')
+#2 {main}
+  thrown in /home/alpha982/public_html/inicialtrabalhista.com/adv/painel_adv/config.php on line 7
+[07-Mar-2018 05:23:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/alpha982/public_html/inicialtrabalhista.com/adv/painel_adv/config.php:7
+Stack trace:
+#0 /home/alpha982/public_html/inicialtrabalhista.com/adv/painel_adv/menu_nav.php(5): include()
+#1 /home/alpha982/public_html/inicialtrabalhista.com/adv/painel_adv/index.php(26): include('/home/alpha982/...')
+#2 {main}
+  thrown in /home/alpha982/public_html/inicialtrabalhista.com/adv/painel_adv/config.php on line 7
+[07-Mar-2018 05:23:58 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/alpha982/public_html/inicialtrabalhista.com/adv/painel_adv/config.php:7
+Stack trace:
+#0 /home/alpha982/public_html/inicialtrabalhista.com/adv/painel_adv/menu_nav.php(5): include()
+#1 /home/alpha982/public_html/inicialtrabalhista.com/adv/painel_adv/index.php(26): include('/home/alpha982/...')
+#2 {main}
+  thrown in /home/alpha982/public_html/inicialtrabalhista.com/adv/painel_adv/config.php on line 7
+[07-Mar-2018 05:50:54 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/alpha982/public_html/inicialtrabalhista.com/adv/painel_adv/config.php:7
+Stack trace:
+#0 /home/alpha982/public_html/inicialtrabalhista.com/adv/painel_adv/menu_nav.php(5): include()
+#1 /home/alpha982/public_html/inicialtrabalhista.com/adv/painel_adv/index.php(26): include('/home/alpha982/...')
+#2 {main}
+  thrown in /home/alpha982/public_html/inicialtrabalhista.com/adv/painel_adv/config.php on line 7
