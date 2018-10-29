@@ -1,0 +1,26 @@
+*{margin:0px;padding:0px;}
+
+
+/*! Procuração Word Finish */
+.titulo_adv {
+	text-align:center;
+	margin: 0px 0px -5px 0px;
+	font-weight:600;
+	color:#CCC;
+
+	
+	}
+.subtitulo_adv {
+	margin-top:30px;
+	text-align:center;
+	font-size:24px;
+	font-weight:bold;
+	}
+.doc_date {
+	position:absolute;
+	right:7%;
+	}
+	#heatxt {
+		margin-left:8%;
+		margin-right:8%;
+	}
