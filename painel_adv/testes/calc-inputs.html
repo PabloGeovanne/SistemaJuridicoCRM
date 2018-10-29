@@ -1,0 +1,37 @@
+﻿<html>
+<head>
+<script type="text/javascript"> 
+function id( el ){
+	return document.getElementById( el );
+}
+function soma(){
+	var inputs = id('campos').getElementsByTagName('input');
+	
+	var soma =0;
+	for( var i=0; i<inputs.length; i++ ){
+		soma += parseInt( inputs[i].value );
+	}
+	id('resultado').value = soma;
+}
+window.onload = function(){
+	id('somar').onclick = function(){
+		soma();
+	}
+}
+</script>
+</head>
+<body>
+	<form action="" method="post">
+		<fieldset id="campos">
+			<label><input type="text" name="input_val_inp01,valor[]" value="2" /></label>
+			<label><input type="text" name="input_val_inp01,valor[]" value="5" /></label>
+			<label><input type="text" name="input_val_inp01,valor[]" value="8" /></label>
+			<label><input type="text" name="input_val_inp01,valor[]" value="9" /></label>
+			<label><input type="text" name="input_val_inp01,valor[]" value="1" /></label>		
+		</fieldset>
+		
+		<input type="button" name="somar" id="somar" value="Somar" />
+		<label>Total Soma: <input type="text" name="resultado" id="resultado" /></label>
+	</form>
+</body>
+</html>
